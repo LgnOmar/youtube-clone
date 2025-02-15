@@ -9,7 +9,6 @@ function VideoCard({ image, title, channel, views, timestamp, channelImage }) {
       <div className="VideoCard-info">
         <Avatar className="VideoCard-avatar" alt={channel} src={channelImage} />
         <div className="VideoCard-text">
-            <h2>test</h2>
           <h4>{title}</h4>
           <p>{channel}</p>
           <p>
