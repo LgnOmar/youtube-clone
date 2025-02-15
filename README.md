@@ -1,7 +1,5 @@
 ## Tech Stack
-
 - **Frontend**: React, JavaScript, CSS
-- **Backend**: Firebase (if applicable)
 
 # Getting Started with Create React App
 
